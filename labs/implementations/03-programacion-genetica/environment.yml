@@ -1,0 +1,21 @@
+name: cc66m-grupo5-lab3
+channels:
+  - conda-forge
+  - nodefaults
+
+dependencies:
+  # núcleo del entorno
+  - python=3.11
+
+  # jupyter
+  - jupyterlab>=4
+  - ipykernel
+  - ipywidgets
+
+  # librerías realmente usadas en el notebook
+  - numpy=1.26.*
+  - matplotlib=3.8.*
+
+  - pandas>=2.0
+  # pip para extensiones futuras si se necesitan
+  - pip
