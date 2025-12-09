@@ -2,6 +2,8 @@
 
 ## integrantes
 
+- Paola Rioseco
+- José Sanz
 - Guillermo Pinto
 - Guillermo Barriga
 - Manuel Bórquez
