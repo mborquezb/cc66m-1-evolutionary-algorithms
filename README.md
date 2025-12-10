@@ -12,4 +12,4 @@
 
 ### tarea 1 `Reinforcement Learning`
 
-- [Notebook Lab 1 (Q-learning)](labs/implementations/01-q-learning/cc6mm-grupo5-lab1.ipynb)
+- [Notebook Assigment-1 (Q-learning)](labs/implementations/01-q-learning/cc6mm-grupo5-assigment-1.ipynb)
