@@ -1,4 +1,4 @@
-# cc66m-grupo5-lab2
+# cc6mm-grupo5-assigment-2
 
 ## integrantes
 
@@ -8,15 +8,6 @@
 - Guillermo Pinto
 - Manuel Bórquez
 
-## hardware
-
-- **Model**: MacBook Pro 14" (2023)  
-- **Chip**: Apple M2 Max (12-core CPU, 38-core GPU, 16-core Neural Engine)  
-- **Architecture**: arm64 (Apple Silicon)  
-- **Memory**: 32 GB unified RAM  
-- **Graphics**: Integrated Apple GPU with full Metal 4 support  
-- **OS**: macOS 26.0 (Build 25A354)  
-
 ## conda environment setup
 
 ```bash
@@ -24,10 +15,10 @@
 conda env create -f environment.yml
 
 # activación del entorno
-conda activate cc66m-grupo5-lab2
+conda activate cc6mm-grupo5-assigment-2
 
 # registro del kernel
-python -m ipykernel install --user --name cc66m-grupo5-lab2 --display-name "Python (cc66m-grupo5-lab2)"
+python -m ipykernel install --user --name cc6mm-grupo5-assigment-2 --display-name "Python (cc6mm-grupo5-assigment-2)"
 
 # actualizar el entorno
 conda env update --file environment.yml --prune 
@@ -35,7 +26,7 @@ conda env update --file environment.yml --prune
 # reinicio / limpieza
 conda deactivate
 conda clean --all --yes
-conda remove -n cc66m-grupo5-lab2 --all
+conda remove -n cc6mm-grupo5-assigment-2 --all
 
 ```
 
