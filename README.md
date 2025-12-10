@@ -12,4 +12,8 @@
 
 ### tarea 1 `Reinforcement Learning`
 
-- [Notebook Assigment-1 (Q-learning)](labs/implementations/01-q-learning/cc6mm-grupo5-assigment-1.ipynb)
+- [Notebook cc6mm-grupo5-assigment-2.ipynb](assigments/implementations/01-q-learning/cc6mm-grupo5-assigment-1.ipynb)
+
+### tarea 2 `Genetic Algorithm`
+
+- [Notebook cc6mm-grupo5-assigment-2.ipynb](assigments/implementations/02-genetic-lgorithm/cc6mm-grupo5-assigment-2.ipynb)
