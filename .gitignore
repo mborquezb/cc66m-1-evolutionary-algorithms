@@ -22,3 +22,5 @@ secrets.yml
 data/*
 lectures/*
 videos/*
+related/*
+images/*
