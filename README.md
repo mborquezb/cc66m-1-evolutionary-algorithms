@@ -17,3 +17,7 @@
 ### tarea 2 `Genetic Algorithm`
 
 - [Notebook cc6mm-grupo5-assigment-2.ipynb](assigments/implementations/02-genetic-algorithm/cc6mm-grupo5-assigment-2.ipynb)
+
+### tarea 3 `Genetic Programming`
+
+- [Notebook cc6mm-grupo5-assigment-3.ipynb](assigments/implementations/03-genetic-programming/cc6mm-grupo5-assigment-3.ipynb)
